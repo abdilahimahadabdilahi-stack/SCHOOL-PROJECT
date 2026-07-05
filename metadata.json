@@ -1,0 +1,6 @@
+{
+  "name": "Alkhair Primary School Management System",
+  "description": "A professional Primary School Management System for Alkhair Primary School, featuring student, teacher, classroom, and event tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
